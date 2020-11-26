@@ -12,10 +12,11 @@ body{
     justify-content: center;
 }
 .container{
-width: 50%;
+width: 40%;
 display: flex;
 align-items: center;
 justify-content: center;
+
 }
 .card{
     transform-style: preserve-3d;
